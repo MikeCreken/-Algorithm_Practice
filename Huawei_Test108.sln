@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Huawei_Test108", "Huawei_Test108\Huawei_Test108.vcxproj", "{FB3141FB-DC7D-44E7-A8FD-D80D171F4F72}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1 求字符串最后一个单词长度", "1 求字符串最后一个单词长度\1 求字符串最后一个单词长度.vcxproj", "{A6EE4A1F-458A-407C-8DF3-6AA0D9B44173}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3 字符串按照8位分割", "3 字符串按照8位分割\3 字符串按照8位分割.vcxproj", "{A8A4D0CA-BF0A-48D6-B2D6-606E2A5E6D47}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2 十六进制转换为十进制", "2 十六进制转换为十进制\2 十六进制转换为十进制.vcxproj", "{4E5770D9-BCC6-4A22-AAD7-D999884DC450}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4 质数因子", "4 质数因子\4 质数因子.vcxproj", "{D6F791DB-6B4F-4E50-8EA9-6BE3C31F2A0C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5 提取不重复的整数", "5 提取不重复的整数\5 提取不重复的整数.vcxproj", "{25EF5050-C601-4D76-8B02-56A18A10FEF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB3141FB-DC7D-44E7-A8FD-D80D171F4F72}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FB3141FB-DC7D-44E7-A8FD-D80D171F4F72}.Debug|Win32.Build.0 = Debug|Win32
+		{FB3141FB-DC7D-44E7-A8FD-D80D171F4F72}.Release|Win32.ActiveCfg = Release|Win32
+		{FB3141FB-DC7D-44E7-A8FD-D80D171F4F72}.Release|Win32.Build.0 = Release|Win32
+		{A6EE4A1F-458A-407C-8DF3-6AA0D9B44173}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A6EE4A1F-458A-407C-8DF3-6AA0D9B44173}.Debug|Win32.Build.0 = Debug|Win32
+		{A6EE4A1F-458A-407C-8DF3-6AA0D9B44173}.Release|Win32.ActiveCfg = Release|Win32
+		{A6EE4A1F-458A-407C-8DF3-6AA0D9B44173}.Release|Win32.Build.0 = Release|Win32
+		{A8A4D0CA-BF0A-48D6-B2D6-606E2A5E6D47}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A8A4D0CA-BF0A-48D6-B2D6-606E2A5E6D47}.Debug|Win32.Build.0 = Debug|Win32
+		{A8A4D0CA-BF0A-48D6-B2D6-606E2A5E6D47}.Release|Win32.ActiveCfg = Release|Win32
+		{A8A4D0CA-BF0A-48D6-B2D6-606E2A5E6D47}.Release|Win32.Build.0 = Release|Win32
+		{4E5770D9-BCC6-4A22-AAD7-D999884DC450}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4E5770D9-BCC6-4A22-AAD7-D999884DC450}.Debug|Win32.Build.0 = Debug|Win32
+		{4E5770D9-BCC6-4A22-AAD7-D999884DC450}.Release|Win32.ActiveCfg = Release|Win32
+		{4E5770D9-BCC6-4A22-AAD7-D999884DC450}.Release|Win32.Build.0 = Release|Win32
+		{D6F791DB-6B4F-4E50-8EA9-6BE3C31F2A0C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D6F791DB-6B4F-4E50-8EA9-6BE3C31F2A0C}.Debug|Win32.Build.0 = Debug|Win32
+		{D6F791DB-6B4F-4E50-8EA9-6BE3C31F2A0C}.Release|Win32.ActiveCfg = Release|Win32
+		{D6F791DB-6B4F-4E50-8EA9-6BE3C31F2A0C}.Release|Win32.Build.0 = Release|Win32
+		{25EF5050-C601-4D76-8B02-56A18A10FEF0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{25EF5050-C601-4D76-8B02-56A18A10FEF0}.Debug|Win32.Build.0 = Debug|Win32
+		{25EF5050-C601-4D76-8B02-56A18A10FEF0}.Release|Win32.ActiveCfg = Release|Win32
+		{25EF5050-C601-4D76-8B02-56A18A10FEF0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
