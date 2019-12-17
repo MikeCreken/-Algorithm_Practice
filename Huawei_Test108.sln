@@ -15,6 +15,14 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4 质数因子", "4 质数�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5 提取不重复的整数", "5 提取不重复的整数\5 提取不重复的整数.vcxproj", "{25EF5050-C601-4D76-8B02-56A18A10FEF0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6 字符个数统计", "6 字符个数统计\6 字符个数统计.vcxproj", "{C376688D-581E-4E2B-A64C-815080479DB8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7 数字颠倒", "7 数字颠倒\7 数字颠倒.vcxproj", "{89BF9ED7-F84C-40C8-92D4-071CF64125AA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8 字符串反转", "8 字符串反转\8 字符串反转.vcxproj", "{9B611231-4684-483A-A4AD-5BF91ACC943F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9 句子逆序", "9 句子逆序\9 句子逆序.vcxproj", "{6BB78C22-E391-47FE-A89E-2849865C8B5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -45,6 +53,22 @@ Global
 		{25EF5050-C601-4D76-8B02-56A18A10FEF0}.Debug|Win32.Build.0 = Debug|Win32
 		{25EF5050-C601-4D76-8B02-56A18A10FEF0}.Release|Win32.ActiveCfg = Release|Win32
 		{25EF5050-C601-4D76-8B02-56A18A10FEF0}.Release|Win32.Build.0 = Release|Win32
+		{C376688D-581E-4E2B-A64C-815080479DB8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C376688D-581E-4E2B-A64C-815080479DB8}.Debug|Win32.Build.0 = Debug|Win32
+		{C376688D-581E-4E2B-A64C-815080479DB8}.Release|Win32.ActiveCfg = Release|Win32
+		{C376688D-581E-4E2B-A64C-815080479DB8}.Release|Win32.Build.0 = Release|Win32
+		{89BF9ED7-F84C-40C8-92D4-071CF64125AA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{89BF9ED7-F84C-40C8-92D4-071CF64125AA}.Debug|Win32.Build.0 = Debug|Win32
+		{89BF9ED7-F84C-40C8-92D4-071CF64125AA}.Release|Win32.ActiveCfg = Release|Win32
+		{89BF9ED7-F84C-40C8-92D4-071CF64125AA}.Release|Win32.Build.0 = Release|Win32
+		{9B611231-4684-483A-A4AD-5BF91ACC943F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9B611231-4684-483A-A4AD-5BF91ACC943F}.Debug|Win32.Build.0 = Debug|Win32
+		{9B611231-4684-483A-A4AD-5BF91ACC943F}.Release|Win32.ActiveCfg = Release|Win32
+		{9B611231-4684-483A-A4AD-5BF91ACC943F}.Release|Win32.Build.0 = Release|Win32
+		{6BB78C22-E391-47FE-A89E-2849865C8B5D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6BB78C22-E391-47FE-A89E-2849865C8B5D}.Debug|Win32.Build.0 = Debug|Win32
+		{6BB78C22-E391-47FE-A89E-2849865C8B5D}.Release|Win32.ActiveCfg = Release|Win32
+		{6BB78C22-E391-47FE-A89E-2849865C8B5D}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
